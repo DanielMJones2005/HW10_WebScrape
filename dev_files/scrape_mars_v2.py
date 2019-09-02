@@ -78,8 +78,8 @@ def scrape():
     soup_mfacts = BeautifulSoup(response_mfacts.text, 'lxml')
     tables = pd.read_html(url_mfacts)[1]
  
-    mars_data_dict["mfacts"] = tables
-    
+    mars_data_dict["mfacts"] = tables.to_html("mars_facts.html")
+    ## mars_data_dict["mfacts"] = tables
     tables.to_html("../html/mars_facts.html")
     
     
