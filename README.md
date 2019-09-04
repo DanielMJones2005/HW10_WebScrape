@@ -67,7 +67,7 @@
             - including Diameter, Mass, etc.
         - used Pandas to convert the data to a HTML table string
  - Mars Hemispheres
-        - visit the USGS Astrogeology site here 
+     - visit the USGS Astrogeology site here 
             - https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars
         - obtained high resolution images for each of Mar's hemispheres
         - saved both the image url string for the full resolution hemisphere image and 
@@ -97,9 +97,9 @@
         
 ## Step 3 - Submission
   - Submit your work to BootCampSpot, create a new GitHub repository and upload the following:
-        - The Jupyter Notebook containing the scraping code used (see above and github repo)
-        - Screenshots of your final application (see below)
-        - Submit the link to your new repository to BootCampSpot
+            - The Jupyter Notebook containing the scraping code used (see above and github repo)
+            - Screenshots of your final application (see below)
+            - Submit the link to your new repository to BootCampSpot
  
  
  
