@@ -96,7 +96,7 @@
         - displays all of the data in the appropriate HTML elements. 
         
 ## Step 3 - Submission
-  - Submit your work to BootCampSpot, create a new GitHub repository and upload the following:
+      - Submit your work to BootCampSpot, create a new GitHub repository and upload the following:
          - the Jupyter Notebook containing the scraping code used (see above and github repo)
          - screenshots of your final application (see below)
          - submit the link to your new repository to BootCampSpot
