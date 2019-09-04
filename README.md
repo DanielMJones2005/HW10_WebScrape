@@ -67,8 +67,8 @@
             - including Diameter, Mass, etc.
         - used Pandas to convert the data to a HTML table string
  - Mars Hemispheres
-     - visit the USGS Astrogeology site here 
-            - https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars
+     - visit the USGS Astrogeology site
+        - https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars
         - obtained high resolution images for each of Mar's hemispheres
         - saved both the image url string for the full resolution hemisphere image and 
             - the Hemisphere title containing the hemisphere name. 
@@ -97,12 +97,23 @@
         
 ## Step 3 - Submission
   - Submit your work to BootCampSpot, create a new GitHub repository and upload the following:
-            - The Jupyter Notebook containing the scraping code used (see above and github repo)
-            - Screenshots of your final application (see below)
-            - Submit the link to your new repository to BootCampSpot
+        - The Jupyter Notebook containing the scraping code used (see above and github repo)
+        - Screenshots of your final application (see below)
+        - Submit the link to your new repository to BootCampSpot
  
  
- 
+## Screenshots
+
+![alt text](https://github.com/DanielMJones2005/HW10_WebScrape/blob/master/img/HW10_WebScrape.Top.jpg)
+
+
+![alt text](https://github.com/DanielMJones2005/HW10_WebScrape/blob/master/img/HW10_WebScrape.FeatureImg.jpg)
+
+
+![alt text](https://github.com/DanielMJones2005/HW10_WebScrape/blob/master/img/HW10_WebScrape.Hemi.jpg)
+
+
+![alt text](https://github.com/DanielMJones2005/HW10_WebScrape/blob/master/img/HW10_WebScrape.ScreenShot_whole_page.jpg)
  
  
  
