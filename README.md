@@ -7,7 +7,7 @@
 * [Dev_Files](https://github.com/DanielMJones2005/HW10_WebScrape/tree/master/dev_files)
     * various files for development
     
-*[html](https://github.com/DanielMJones2005/HW10_WebScrape/tree/master/html)
+* [html](https://github.com/DanielMJones2005/HW10_WebScrape/tree/master/html)
     * mars_facts.html
       * Python html export
       
@@ -63,11 +63,11 @@
  - Mars Facts
     - Visited the Mars Facts webpage
         - https://space-facts.com/mars/
-        - Used Pandas to scrape the table containing facts about the planet
+        - used Pandas to scrape the table containing facts about the planet
             - including Diameter, Mass, etc.
-        - Used Pandas to convert the data to a HTML table string
+        - used Pandas to convert the data to a HTML table string
  - Mars Hemispheres
-        - Visit the USGS Astrogeology site here 
+        - visit the USGS Astrogeology site here 
             - https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars
         - obtained high resolution images for each of Mar's hemispheres
         - saved both the image url string for the full resolution hemisphere image and 
@@ -78,9 +78,9 @@
         - list contained one dictionary for each hemisphere.
  
  ## Step 2 - MongoDB and Flask Application
-  -  used MongoDB with Flask template to create a new HTML page
+   - used MongoDB with Flask template to create a new HTML page
         - that displayed all of the information that was scraped from the URLs above
-  - converted Jupyter notebook into a Python script called scrape_mars.py 
+   - converted Jupyter notebook into a Python script called scrape_mars.py 
         - with a function called scrape
             - that will execute scraping code from above and 
             - return one Python dictionary containing all of the scraped data
