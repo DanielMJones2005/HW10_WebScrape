@@ -97,22 +97,23 @@
         
 ## Step 3 - Submission
   - Submit your work to BootCampSpot, create a new GitHub repository and upload the following:
-        - The Jupyter Notebook containing the scraping code used (see above and github repo)
-        - Screenshots of your final application (see below)
-        - Submit the link to your new repository to BootCampSpot
+         - the Jupyter Notebook containing the scraping code used (see above and github repo)
+         - screenshots of your final application (see below)
+         - submit the link to your new repository to BootCampSpot
  
  
 ## Screenshots
 
+## Latest Mars News
 ![alt text](https://github.com/DanielMJones2005/HW10_WebScrape/blob/master/img/HW10_WebScrape.Top.jpg)
 
-
+## Feature Image
 ![alt text](https://github.com/DanielMJones2005/HW10_WebScrape/blob/master/img/HW10_WebScrape.FeatureImg.jpg)
 
-
+## Mars Hemispheres
 ![alt text](https://github.com/DanielMJones2005/HW10_WebScrape/blob/master/img/HW10_WebScrape.Hemi.jpg)
 
-
+## Whole Page
 ![alt text](https://github.com/DanielMJones2005/HW10_WebScrape/blob/master/img/HW10_WebScrape.ScreenShot_whole_page.jpg)
  
  
