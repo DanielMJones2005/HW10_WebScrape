@@ -4,7 +4,7 @@
 
 
 ## Files
-* [Dev_Files](https://github.com/DanielMJones2005/HW10_WebScrape/tree/master/dev_files)
+* [dev_files](https://github.com/DanielMJones2005/HW10_WebScrape/tree/master/dev_files)
     * various files for development
     
 * [html](https://github.com/DanielMJones2005/HW10_WebScrape/tree/master/html)
@@ -39,7 +39,7 @@
     - Pandas and
     - Requests/Splinter
  - Created a Jupyter Notebook file called mission_to_mars.ipynb
-    - Used this to complete all scraping and analysis tasks
+    - used this to complete all scraping and analysis tasks
     - NASA Mars News
  - Scraped the NASA Mars News Site and collected
     - latest News Title and 
@@ -48,20 +48,20 @@
         - news_title
         - news_p
  - JPL Mars Space Images - Featured Image
-    - Visited the url for JPL Featured Space Image
+    - visited the url for JPL Featured Space Image
         - https://www.jpl.nasa.gov/spaceimages/?search=&category=Mars
-    - Used splinter to navigate the site and 
+    - used splinter to navigate the site and 
         - found the image url for the current Featured Mars Image and 
         - assigned the url string to a variable called featured_image_url
         - found full size .jpg image
         - saved a complete url string for this image
  - Mars Weather
-    - Visited the Mars Weather twitter account
+    - visited the Mars Weather twitter account
         - https://twitter.com/marswxreport?lang=en
         - scraped the latest Mars weather tweet from the page
         - saved the tweet text for the weather report as a variable called mars_weather   
  - Mars Facts
-    - Visited the Mars Facts webpage
+    - visited the Mars Facts webpage
         - https://space-facts.com/mars/
         - used Pandas to scrape the table containing facts about the planet
             - including Diameter, Mass, etc.
@@ -96,10 +96,10 @@
         - displays all of the data in the appropriate HTML elements. 
         
 ## Step 3 - Submission
-      - Submit your work to BootCampSpot, create a new GitHub repository and upload the following:
-         - the Jupyter Notebook containing the scraping code used (see above and github repo)
-         - screenshots of your final application (see below)
-         - submit the link to your new repository to BootCampSpot
+   - Submit your work to BootCampSpot, create a new GitHub repository and upload the following:
+        - the Jupyter Notebook containing the scraping code used (see above and github repo)
+        - screenshots of your final application (see below)
+        - submit the link to your new repository to BootCampSpot
  
  
 ## Screenshots
